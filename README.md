@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jeff Kandie
-- 👀 I’m interested in Full stack web development.
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on Web dev projects.
+- 👀 I’m interested in Mobile development.
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate Mobile dev projects.
 - 📫 Email: jeffkandiea1@gmail.com Twitter: Kandiej23
 
 <!---
