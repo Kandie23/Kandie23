@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jeff Kandie
 - 👀 I’m interested in Mobile development.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate Mobile dev projects.
+- 💞️ I’m looking to collaborate in Mobile dev projects.
 - 📫 Email: jeffkandiea1@gmail.com Twitter: Kandiej23
 
 <!---
